@@ -1,6 +1,6 @@
 # pypi-size
 
-Get the size of the most popular repositories
+Get the size of the most popular pip repositories
 
 ## Usecase
 
@@ -14,6 +14,6 @@ pip install -r requirements.txt
 python3 size.py
 ````
 
-Enter the number of repositories to calculate size of.
-
-Delete pypi_package_sizes.json to redownload information.
+- Enter the number of repositories to calculate size of
+- The size of the repositories will be retrieved from pypi.org
+- Delete pypi_package_sizes.json to redownload information
