@@ -17,3 +17,8 @@ python3 size.py
 - Enter the number of repositories to calculate size of
 - The size of the repositories will be retrieved from pypi.org
 - Delete pypi_package_sizes.json to redownload information
+
+## Results
+- Top 100: 5.56 GB
+- Top 1000: 46.98 GB
+- Top 10000: 202.97 GB
