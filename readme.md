@@ -22,3 +22,4 @@ python3 size.py
 - Top 100: 5.56 GB
 - Top 1000: 46.98 GB
 - Top 10000: 202.97 GB
+- Top 15000: 275.22 GB
